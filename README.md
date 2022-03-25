@@ -1,3 +1,1 @@
-### DRAMATIC YEAR IS OVER, SEE YOU NEXT SEASON...
-
-![FGahekgXEAcoqVA](https://user-images.githubusercontent.com/5967271/145738594-57388850-2c7c-443c-bdde-81ab6b504ae2.jpg)
+![FOTmI9pXIAAdeHj](https://user-images.githubusercontent.com/5967271/160129209-dfc12d10-0d1a-48a0-a830-616c5ec1ffc1.jpg)
