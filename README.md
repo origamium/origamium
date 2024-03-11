@@ -17,3 +17,6 @@
 ## GAMES
 
 [![Steam - on_origami](https://img.shields.io/badge/Steam-on__origami-lightgray?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/on_origami/)
+
+# Blog
+[Zenn(japanese)](https://zenn.dev/schemelisp)
