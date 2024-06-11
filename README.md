@@ -1,10 +1,12 @@
 ## SNS
 
+[![misskey.io - arclisp](https://img.shields.io/badge/misskey.io-arclisp-brightgreen?style=for-the-badge&logo=misskey&label=misskey.io)](https://misskey.io/@arclisp)
 [![bluesky - arclisp](https://img.shields.io/badge/bluesky-arclisp-5555ff?style=for-the-badge)](https://bsky.app/profile/arclisp.bsky.social)
 [![mstdn.jp - lisp](https://img.shields.io/badge/mstdn.jp-lisp-2f0c7a?style=for-the-badge&logo=mastodon&logoColor=%236364FF)](https://mstdn.jp/@lisp)
 [![pawoo.net - origami](https://img.shields.io/badge/pawoo.net-origami-999999?style=for-the-badge&logo=mastodon&logoColor=%236364FF)](https://pawoo.net/@origami)
-[![bluesky - arclisp](https://img.shields.io/badge/submarine.online-arclisp-5555ff?style=for-the-badge)](https://submarin.online/@arclisp)
-[![misskey.io - arclisp](https://img.shields.io/badge/misskey.io-arclisp-a1ca03?style=for-the-badge&logo=misskey)]([https://submarin.online/@arclisp](https://misskey.io/@arclisp))
+[![submarine - arclisp](https://img.shields.io/badge/submarine.online-arclisp-5555ff?style=for-the-badge)](https://submarin.online/@arclisp)
+
+
 
 
 ## PHOTOS
