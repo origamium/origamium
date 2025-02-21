@@ -1,5 +1,6 @@
 ## SNS
 
+[![Twitter/X - arclisp](https://img.shields.io/badge/twitter-arclisp-2ea44f?style=for-the-badge&logo=twitter)](https://twitter.com/arclisp)
 [![misskey.io - arclisp](https://img.shields.io/badge/misskey.io-arclisp-brightgreen?style=for-the-badge&logo=misskey&label=misskey.io)](https://misskey.io/@arclisp)
 [![bluesky - arclisp](https://img.shields.io/badge/bluesky-arclisp-5555ff?style=for-the-badge)](https://bsky.app/profile/arclisp.bsky.social)
 [![mstdn.jp - lisp](https://img.shields.io/badge/mstdn.jp-lisp-2f0c7a?style=for-the-badge&logo=mastodon&logoColor=%236364FF)](https://mstdn.jp/@lisp)
